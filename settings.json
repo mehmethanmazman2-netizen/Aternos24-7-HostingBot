@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "TotemOfMc.aternos.me",
+    "port": 45407,
     "version": "",
     "try-creative": false
   },
